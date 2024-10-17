@@ -1,0 +1,2 @@
+bbc https://www.kaggle.com/competitions/learn-ai-bbc/data
+reddit dow jones https://www.kaggle.com/datasets/aaron7sun/stocknews/
