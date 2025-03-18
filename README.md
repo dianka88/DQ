@@ -6,11 +6,11 @@ This project utilizes the **BERTopic** model to analyze topics in financial head
 I selected the https://huggingface.co/datasets/raeidsaqur/NIFTY dataset from Hugging Face that contains a variety of financial news from different sources. This dataset was chosen for its large size and exclusive focus on financial sentiments.
 
 **Dataset Details:**
-•	Source: Hugging Face 
-•	Content: 
+	Source: Hugging Face 
+	Content: 
 	Headlines are sourced from The Wall Street Journal, Reuters News, and Yahoo Finance. 
 	The dataset includes ID, date, context, news, conversations, label, pct_change, and published news from January 2010 to July 2017.
-•	Size: 1,477 rows
+	Size: 1,477 rows
 
 **Preprocessing**
 
