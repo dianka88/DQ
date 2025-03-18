@@ -7,7 +7,9 @@ I selected the https://huggingface.co/datasets/raeidsaqur/NIFTY dataset from Hug
 
 **Dataset Details:**
 •	Source: Hugging Face 
-•	Content: Headlines are sourced from The Wall Street Journal, Reuters News, and Yahoo Finance. The dataset includes ID, date, context, news, conversations, label, pct_change, and published news from January 2010 to July 2017.
+•	Content: 
+	Headlines are sourced from The Wall Street Journal, Reuters News, and Yahoo Finance. 
+	The dataset includes ID, date, context, news, conversations, label, pct_change, and published news from January 2010 to July 2017.
 •	Size: 1,477 rows
 
 **Preprocessing**
