@@ -14,17 +14,17 @@ I selected the https://huggingface.co/datasets/raeidsaqur/NIFTY dataset from Hug
 
 To prepare the dataset for topic modeling, several preprocessing steps were implemented:
 1.	Text Splitting:
-o	All news articles for the same day were concatenated into a single data point.
-o	The text was split using \n to extract individual news headlines.
+   All news articles for the same day were concatenated into a single data point.
+   The text was split using \n to extract individual news headlines.
 2.	Duplicate Removal:
-o	Removed duplicate headlines to ensure data uniqueness.
+	  Removed duplicate headlines to ensure data uniqueness.
 3.	Non-Financial Headline Filtering:
-o	Removed news that was not related to financial topics.
+    Removed news that was not related to financial topics.
 4.	Short News Removal:
-o	Data points with fewer than two words were discarded.
+    Data points with fewer than two words were discarded.
 5.	Unnecessary Column Removal:
-o	Dropped irrelevant columns that did not contribute to topic modeling.
+    Dropped irrelevant columns that did not contribute to topic modeling.
 6.	Tokenization and Lemmatization:
-o	Abstracts were tokenized and lemmatized to ensure consistency in word forms.
+    Abstracts were tokenized and lemmatized to ensure consistency in word forms.
 
 
