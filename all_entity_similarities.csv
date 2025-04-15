@@ -1,0 +1,301 @@
+Entity1,Entity2,Article_1_News,Article_2_News,Date_Difference,SBERT_Similarity
+"['am', '##eric', '##an']","['m', '##c', '##don', '##ald']",archive international auction historic american bank note archive including worldwide banknote stock bond and security printing ephemera,mcdonald deal set low for bond rate,120,0.38093164563179016
+"['am', '##eric', '##an']","['euro', '##pe']",archive international auction historic american bank note archive including worldwide banknote stock bond and security printing ephemera,treasury edge higher european banking worry,161,0.2402624934911728
+"['am', '##eric', '##an']","['c', '##iti', 'de', '##xia']",archive international auction historic american bank note archive including worldwide banknote stock bond and security printing ephemera,citi win mandate sole usd treasury clearer for the dexia group,210,0.24979786574840546
+"['am', '##eric', '##an']","['##erman', '##y']",archive international auction historic american bank note archive including worldwide banknote stock bond and security printing ephemera,treasury bond gain yield seen testing month lowsvolcanic ash cloud clearing nears germany,419,0.3962620794773102
+"['am', '##eric', '##an']","['euro', '##pe']",archive international auction historic american bank note archive including worldwide banknote stock bond and security printing ephemera,treasury european worry push key yield below pct,467,0.2402624934911728
+"['am', '##eric', '##an']","['a', '##f', '##rica']",archive international auction historic american bank note archive including worldwide banknote stock bond and security printing ephemera,africa bond extend gain yield sharply down,497,0.24952074885368347
+"['am', '##eric', '##an']","['g', '##erman']",archive international auction historic american bank note archive including worldwide banknote stock bond and security printing ephemera,treasury bond extend fall after german parliament news,574,0.36309587955474854
+"['am', '##eric', '##an']","['euro', '##pe']",archive international auction historic american bank note archive including worldwide banknote stock bond and security printing ephemera,treasury bond fall hope european debt solution,574,0.2402624934911728
+"['am', '##eric', '##an']","['at', '##lant', '##a']",archive international auction historic american bank note archive including worldwide banknote stock bond and security printing ephemera,atlanta tower set for foreclosure auction,652,0.3895130753517151
+"['am', '##eric', '##an']","['m', '##c', '##don', '##ald']",archive international auction historic american bank note archive including worldwide banknote stock bond and security printing ephemera,mcdonald reclaims year bond yield record,673,0.38093164563179016
+"['am', '##eric', '##an']","['be', '##rna', '##nk', '##e']",archive international auction historic american bank note archive including worldwide banknote stock bond and security printing ephemera,bernanke comment damp treasury,700,0.2517213225364685
+"['am', '##eric', '##an']","['##ils', '##k']",archive international auction historic american bank note archive including worldwide banknote stock bond and security printing ephemera,norilsk nickel may retire treasury share potanin,792,0.2779366672039032
+"['am', '##eric', '##an']","['g', '##erman']",archive international auction historic american bank note archive including worldwide banknote stock bond and security printing ephemera,corrected treasury yield rise after german court ruling before supply,896,0.36309587955474854
+"['am', '##eric', '##an']","['g', '##erman']",archive international auction historic american bank note archive including worldwide banknote stock bond and security printing ephemera,treasury price fall german court ruling year sale,896,0.36309587955474854
+"['am', '##eric', '##an']","['##ac', '##ific', 'k', '##rum']",archive international auction historic american bank note archive including worldwide banknote stock bond and security printing ephemera,pacific life tom gibbon and joseph krum assume additional corporate treasury responsibility,896,0.30483755469322205
+"['am', '##eric', '##an']","['alliance', '##ber', '##nstein']",archive international auction historic american bank note archive including worldwide banknote stock bond and security printing ephemera,alliancebernstein liquidates public private investment partnership internal rate return for treasury,923,0.32976019382476807
+"['am', '##eric', '##an']","['am', '##eric', '##an']",archive international auction historic american bank note archive including worldwide banknote stock bond and security printing ephemera,treasury bond tread water american vote tight race,951,1.0
+"['am', '##eric', '##an']","['be', '##rna', '##nk']",archive international auction historic american bank note archive including worldwide banknote stock bond and security printing ephemera,treasury yield near month low bernanke defends bond buy,1063,0.2181771993637085
+"['am', '##eric', '##an']","['g', '##if']",archive international auction historic american bank note archive including worldwide banknote stock bond and security printing ephemera,jim gifas head rb citizen treasury solution named elite bank system technology,1294,0.27624285221099854
+"['am', '##eric', '##an']","['nor', '##tel']",archive international auction historic american bank note archive including worldwide banknote stock bond and security printing ephemera,nortel put sale proceeds treasury while creditor fight,1428,0.3296635150909424
+"['am', '##eric', '##an']","['black', 'th']",archive international auction historic american bank note archive including worldwide banknote stock bond and security printing ephemera,blackrock thiel say periphery bond holding lowest year,1518,0.24463683366775513
+"['am', '##eric', '##an']","['g', '##erman']",archive international auction historic american bank note archive including worldwide banknote stock bond and security printing ephemera,treasury yield rise with german debt set bearish bond bet,1525,0.36309587955474854
+"['am', '##eric', '##an']","['g', '##erman', '##eas']",archive international auction historic american bank note archive including worldwide banknote stock bond and security printing ephemera,german yield rise ukraine mideast tension ease but backdrop fragile,1594,0.441562682390213
+"['am', '##eric', '##an']","['##zi', '##lian']",archive international auction historic american bank note archive including worldwide banknote stock bond and security printing ephemera,treasury bond price edge weak data brazilian election,1672,0.30398839712142944
+"['m', '##c', '##don', '##ald']","['euro', '##pe']",mcdonald deal set low for bond rate,treasury edge higher european banking worry,41,0.21872830390930176
+"['m', '##c', '##don', '##ald']","['c', '##iti', 'de', '##xia']",mcdonald deal set low for bond rate,citi win mandate sole usd treasury clearer for the dexia group,90,0.43813079595565796
+"['m', '##c', '##don', '##ald']","['##erman', '##y']",mcdonald deal set low for bond rate,treasury bond gain yield seen testing month lowsvolcanic ash cloud clearing nears germany,299,0.35253772139549255
+"['m', '##c', '##don', '##ald']","['euro', '##pe']",mcdonald deal set low for bond rate,treasury european worry push key yield below pct,347,0.21872830390930176
+"['m', '##c', '##don', '##ald']","['a', '##f', '##rica']",mcdonald deal set low for bond rate,africa bond extend gain yield sharply down,377,0.22014310956001282
+"['m', '##c', '##don', '##ald']","['g', '##erman']",mcdonald deal set low for bond rate,treasury bond extend fall after german parliament news,454,0.29208478331565857
+"['m', '##c', '##don', '##ald']","['euro', '##pe']",mcdonald deal set low for bond rate,treasury bond fall hope european debt solution,454,0.21872830390930176
+"['m', '##c', '##don', '##ald']","['at', '##lant', '##a']",mcdonald deal set low for bond rate,atlanta tower set for foreclosure auction,532,0.40823894739151
+"['m', '##c', '##don', '##ald']","['m', '##c', '##don', '##ald']",mcdonald deal set low for bond rate,mcdonald reclaims year bond yield record,553,0.9999998807907104
+"['m', '##c', '##don', '##ald']","['be', '##rna', '##nk', '##e']",mcdonald deal set low for bond rate,bernanke comment damp treasury,580,0.27566754817962646
+"['m', '##c', '##don', '##ald']","['##ils', '##k']",mcdonald deal set low for bond rate,norilsk nickel may retire treasury share potanin,672,0.3672581911087036
+"['m', '##c', '##don', '##ald']","['g', '##erman']",mcdonald deal set low for bond rate,corrected treasury yield rise after german court ruling before supply,776,0.29208478331565857
+"['m', '##c', '##don', '##ald']","['g', '##erman']",mcdonald deal set low for bond rate,treasury price fall german court ruling year sale,776,0.29208478331565857
+"['m', '##c', '##don', '##ald']","['##ac', '##ific', 'k', '##rum']",mcdonald deal set low for bond rate,pacific life tom gibbon and joseph krum assume additional corporate treasury responsibility,776,0.43051767349243164
+"['m', '##c', '##don', '##ald']","['alliance', '##ber', '##nstein']",mcdonald deal set low for bond rate,alliancebernstein liquidates public private investment partnership internal rate return for treasury,803,0.366599440574646
+"['m', '##c', '##don', '##ald']","['am', '##eric', '##an']",mcdonald deal set low for bond rate,treasury bond tread water american vote tight race,831,0.38093164563179016
+"['m', '##c', '##don', '##ald']","['be', '##rna', '##nk']",mcdonald deal set low for bond rate,treasury yield near month low bernanke defends bond buy,943,0.29993072152137756
+"['m', '##c', '##don', '##ald']","['g', '##if']",mcdonald deal set low for bond rate,jim gifas head rb citizen treasury solution named elite bank system technology,1174,0.3292972445487976
+"['m', '##c', '##don', '##ald']","['nor', '##tel']",mcdonald deal set low for bond rate,nortel put sale proceeds treasury while creditor fight,1308,0.36054545640945435
+"['m', '##c', '##don', '##ald']","['black', 'th']",mcdonald deal set low for bond rate,blackrock thiel say periphery bond holding lowest year,1398,0.1908879578113556
+"['m', '##c', '##don', '##ald']","['g', '##erman']",mcdonald deal set low for bond rate,treasury yield rise with german debt set bearish bond bet,1405,0.29208478331565857
+"['m', '##c', '##don', '##ald']","['g', '##erman', '##eas']",mcdonald deal set low for bond rate,german yield rise ukraine mideast tension ease but backdrop fragile,1474,0.342870831489563
+"['m', '##c', '##don', '##ald']","['##zi', '##lian']",mcdonald deal set low for bond rate,treasury bond price edge weak data brazilian election,1552,0.3630561828613281
+"['euro', '##pe']","['c', '##iti', 'de', '##xia']",treasury edge higher european banking worry,citi win mandate sole usd treasury clearer for the dexia group,49,0.290922611951828
+"['euro', '##pe']","['##erman', '##y']",treasury edge higher european banking worry,treasury bond gain yield seen testing month lowsvolcanic ash cloud clearing nears germany,258,0.370037317276001
+"['euro', '##pe']","['euro', '##pe']",treasury edge higher european banking worry,treasury european worry push key yield below pct,306,1.0000001192092896
+"['euro', '##pe']","['a', '##f', '##rica']",treasury edge higher european banking worry,africa bond extend gain yield sharply down,336,0.2983773350715637
+"['euro', '##pe']","['g', '##erman']",treasury edge higher european banking worry,treasury bond extend fall after german parliament news,413,0.30355212092399597
+"['euro', '##pe']","['euro', '##pe']",treasury edge higher european banking worry,treasury bond fall hope european debt solution,413,1.0000001192092896
+"['euro', '##pe']","['at', '##lant', '##a']",treasury edge higher european banking worry,atlanta tower set for foreclosure auction,491,0.2579558789730072
+"['euro', '##pe']","['m', '##c', '##don', '##ald']",treasury edge higher european banking worry,mcdonald reclaims year bond yield record,512,0.21872830390930176
+"['euro', '##pe']","['be', '##rna', '##nk', '##e']",treasury edge higher european banking worry,bernanke comment damp treasury,539,0.20671142637729645
+"['euro', '##pe']","['##ils', '##k']",treasury edge higher european banking worry,norilsk nickel may retire treasury share potanin,631,0.30511271953582764
+"['euro', '##pe']","['g', '##erman']",treasury edge higher european banking worry,corrected treasury yield rise after german court ruling before supply,735,0.30355212092399597
+"['euro', '##pe']","['g', '##erman']",treasury edge higher european banking worry,treasury price fall german court ruling year sale,735,0.30355212092399597
+"['euro', '##pe']","['##ac', '##ific', 'k', '##rum']",treasury edge higher european banking worry,pacific life tom gibbon and joseph krum assume additional corporate treasury responsibility,735,0.29984280467033386
+"['euro', '##pe']","['alliance', '##ber', '##nstein']",treasury edge higher european banking worry,alliancebernstein liquidates public private investment partnership internal rate return for treasury,762,0.2701916992664337
+"['euro', '##pe']","['am', '##eric', '##an']",treasury edge higher european banking worry,treasury bond tread water american vote tight race,790,0.2402624934911728
+"['euro', '##pe']","['be', '##rna', '##nk']",treasury edge higher european banking worry,treasury yield near month low bernanke defends bond buy,902,0.17642730474472046
+"['euro', '##pe']","['g', '##if']",treasury edge higher european banking worry,jim gifas head rb citizen treasury solution named elite bank system technology,1133,0.24398377537727356
+"['euro', '##pe']","['nor', '##tel']",treasury edge higher european banking worry,nortel put sale proceeds treasury while creditor fight,1267,0.2501462996006012
+"['euro', '##pe']","['black', 'th']",treasury edge higher european banking worry,blackrock thiel say periphery bond holding lowest year,1357,0.1370278000831604
+"['euro', '##pe']","['g', '##erman']",treasury edge higher european banking worry,treasury yield rise with german debt set bearish bond bet,1364,0.30355212092399597
+"['euro', '##pe']","['g', '##erman', '##eas']",treasury edge higher european banking worry,german yield rise ukraine mideast tension ease but backdrop fragile,1433,0.37452858686447144
+"['euro', '##pe']","['##zi', '##lian']",treasury edge higher european banking worry,treasury bond price edge weak data brazilian election,1511,0.25657010078430176
+"['c', '##iti', 'de', '##xia']","['##erman', '##y']",citi win mandate sole usd treasury clearer for the dexia group,treasury bond gain yield seen testing month lowsvolcanic ash cloud clearing nears germany,209,0.20741355419158936
+"['c', '##iti', 'de', '##xia']","['euro', '##pe']",citi win mandate sole usd treasury clearer for the dexia group,treasury european worry push key yield below pct,257,0.290922611951828
+"['c', '##iti', 'de', '##xia']","['a', '##f', '##rica']",citi win mandate sole usd treasury clearer for the dexia group,africa bond extend gain yield sharply down,287,0.15160800516605377
+"['c', '##iti', 'de', '##xia']","['g', '##erman']",citi win mandate sole usd treasury clearer for the dexia group,treasury bond extend fall after german parliament news,364,0.16171663999557495
+"['c', '##iti', 'de', '##xia']","['euro', '##pe']",citi win mandate sole usd treasury clearer for the dexia group,treasury bond fall hope european debt solution,364,0.290922611951828
+"['c', '##iti', 'de', '##xia']","['at', '##lant', '##a']",citi win mandate sole usd treasury clearer for the dexia group,atlanta tower set for foreclosure auction,442,0.3304610848426819
+"['c', '##iti', 'de', '##xia']","['m', '##c', '##don', '##ald']",citi win mandate sole usd treasury clearer for the dexia group,mcdonald reclaims year bond yield record,463,0.43813079595565796
+"['c', '##iti', 'de', '##xia']","['be', '##rna', '##nk', '##e']",citi win mandate sole usd treasury clearer for the dexia group,bernanke comment damp treasury,490,0.2506319284439087
+"['c', '##iti', 'de', '##xia']","['##ils', '##k']",citi win mandate sole usd treasury clearer for the dexia group,norilsk nickel may retire treasury share potanin,582,0.3180077373981476
+"['c', '##iti', 'de', '##xia']","['g', '##erman']",citi win mandate sole usd treasury clearer for the dexia group,corrected treasury yield rise after german court ruling before supply,686,0.16171663999557495
+"['c', '##iti', 'de', '##xia']","['g', '##erman']",citi win mandate sole usd treasury clearer for the dexia group,treasury price fall german court ruling year sale,686,0.16171663999557495
+"['c', '##iti', 'de', '##xia']","['##ac', '##ific', 'k', '##rum']",citi win mandate sole usd treasury clearer for the dexia group,pacific life tom gibbon and joseph krum assume additional corporate treasury responsibility,686,0.3635735809803009
+"['c', '##iti', 'de', '##xia']","['alliance', '##ber', '##nstein']",citi win mandate sole usd treasury clearer for the dexia group,alliancebernstein liquidates public private investment partnership internal rate return for treasury,713,0.22117753326892853
+"['c', '##iti', 'de', '##xia']","['am', '##eric', '##an']",citi win mandate sole usd treasury clearer for the dexia group,treasury bond tread water american vote tight race,741,0.24979786574840546
+"['c', '##iti', 'de', '##xia']","['be', '##rna', '##nk']",citi win mandate sole usd treasury clearer for the dexia group,treasury yield near month low bernanke defends bond buy,853,0.24135465919971466
+"['c', '##iti', 'de', '##xia']","['g', '##if']",citi win mandate sole usd treasury clearer for the dexia group,jim gifas head rb citizen treasury solution named elite bank system technology,1084,0.2422574907541275
+"['c', '##iti', 'de', '##xia']","['nor', '##tel']",citi win mandate sole usd treasury clearer for the dexia group,nortel put sale proceeds treasury while creditor fight,1218,0.36450666189193726
+"['c', '##iti', 'de', '##xia']","['black', 'th']",citi win mandate sole usd treasury clearer for the dexia group,blackrock thiel say periphery bond holding lowest year,1308,0.12693747878074646
+"['c', '##iti', 'de', '##xia']","['g', '##erman']",citi win mandate sole usd treasury clearer for the dexia group,treasury yield rise with german debt set bearish bond bet,1315,0.16171663999557495
+"['c', '##iti', 'de', '##xia']","['g', '##erman', '##eas']",citi win mandate sole usd treasury clearer for the dexia group,german yield rise ukraine mideast tension ease but backdrop fragile,1384,0.18848758935928345
+"['c', '##iti', 'de', '##xia']","['##zi', '##lian']",citi win mandate sole usd treasury clearer for the dexia group,treasury bond price edge weak data brazilian election,1462,0.40322136878967285
+"['##erman', '##y']","['euro', '##pe']",treasury bond gain yield seen testing month lowsvolcanic ash cloud clearing nears germany,treasury european worry push key yield below pct,48,0.370037317276001
+"['##erman', '##y']","['a', '##f', '##rica']",treasury bond gain yield seen testing month lowsvolcanic ash cloud clearing nears germany,africa bond extend gain yield sharply down,78,0.2325429916381836
+"['##erman', '##y']","['g', '##erman']",treasury bond gain yield seen testing month lowsvolcanic ash cloud clearing nears germany,treasury bond extend fall after german parliament news,155,0.783060610294342
+"['##erman', '##y']","['euro', '##pe']",treasury bond gain yield seen testing month lowsvolcanic ash cloud clearing nears germany,treasury bond fall hope european debt solution,155,0.370037317276001
+"['##erman', '##y']","['at', '##lant', '##a']",treasury bond gain yield seen testing month lowsvolcanic ash cloud clearing nears germany,atlanta tower set for foreclosure auction,233,0.3093258738517761
+"['##erman', '##y']","['m', '##c', '##don', '##ald']",treasury bond gain yield seen testing month lowsvolcanic ash cloud clearing nears germany,mcdonald reclaims year bond yield record,254,0.35253772139549255
+"['##erman', '##y']","['be', '##rna', '##nk', '##e']",treasury bond gain yield seen testing month lowsvolcanic ash cloud clearing nears germany,bernanke comment damp treasury,281,0.23978537321090698
+"['##erman', '##y']","['##ils', '##k']",treasury bond gain yield seen testing month lowsvolcanic ash cloud clearing nears germany,norilsk nickel may retire treasury share potanin,373,0.3782046437263489
+"['##erman', '##y']","['g', '##erman']",treasury bond gain yield seen testing month lowsvolcanic ash cloud clearing nears germany,corrected treasury yield rise after german court ruling before supply,477,0.783060610294342
+"['##erman', '##y']","['g', '##erman']",treasury bond gain yield seen testing month lowsvolcanic ash cloud clearing nears germany,treasury price fall german court ruling year sale,477,0.783060610294342
+"['##erman', '##y']","['##ac', '##ific', 'k', '##rum']",treasury bond gain yield seen testing month lowsvolcanic ash cloud clearing nears germany,pacific life tom gibbon and joseph krum assume additional corporate treasury responsibility,477,0.27868133783340454
+"['##erman', '##y']","['alliance', '##ber', '##nstein']",treasury bond gain yield seen testing month lowsvolcanic ash cloud clearing nears germany,alliancebernstein liquidates public private investment partnership internal rate return for treasury,504,0.33476144075393677
+"['##erman', '##y']","['am', '##eric', '##an']",treasury bond gain yield seen testing month lowsvolcanic ash cloud clearing nears germany,treasury bond tread water american vote tight race,532,0.3962620794773102
+"['##erman', '##y']","['be', '##rna', '##nk']",treasury bond gain yield seen testing month lowsvolcanic ash cloud clearing nears germany,treasury yield near month low bernanke defends bond buy,644,0.23265835642814636
+"['##erman', '##y']","['g', '##if']",treasury bond gain yield seen testing month lowsvolcanic ash cloud clearing nears germany,jim gifas head rb citizen treasury solution named elite bank system technology,875,0.3128250241279602
+"['##erman', '##y']","['nor', '##tel']",treasury bond gain yield seen testing month lowsvolcanic ash cloud clearing nears germany,nortel put sale proceeds treasury while creditor fight,1009,0.36404064297676086
+"['##erman', '##y']","['black', 'th']",treasury bond gain yield seen testing month lowsvolcanic ash cloud clearing nears germany,blackrock thiel say periphery bond holding lowest year,1099,0.14996325969696045
+"['##erman', '##y']","['g', '##erman']",treasury bond gain yield seen testing month lowsvolcanic ash cloud clearing nears germany,treasury yield rise with german debt set bearish bond bet,1106,0.783060610294342
+"['##erman', '##y']","['g', '##erman', '##eas']",treasury bond gain yield seen testing month lowsvolcanic ash cloud clearing nears germany,german yield rise ukraine mideast tension ease but backdrop fragile,1175,0.7449064254760742
+"['##erman', '##y']","['##zi', '##lian']",treasury bond gain yield seen testing month lowsvolcanic ash cloud clearing nears germany,treasury bond price edge weak data brazilian election,1253,0.4295833110809326
+"['euro', '##pe']","['a', '##f', '##rica']",treasury european worry push key yield below pct,africa bond extend gain yield sharply down,30,0.2983773350715637
+"['euro', '##pe']","['g', '##erman']",treasury european worry push key yield below pct,treasury bond extend fall after german parliament news,107,0.30355212092399597
+"['euro', '##pe']","['euro', '##pe']",treasury european worry push key yield below pct,treasury bond fall hope european debt solution,107,1.0000001192092896
+"['euro', '##pe']","['at', '##lant', '##a']",treasury european worry push key yield below pct,atlanta tower set for foreclosure auction,185,0.2579558789730072
+"['euro', '##pe']","['m', '##c', '##don', '##ald']",treasury european worry push key yield below pct,mcdonald reclaims year bond yield record,206,0.21872830390930176
+"['euro', '##pe']","['be', '##rna', '##nk', '##e']",treasury european worry push key yield below pct,bernanke comment damp treasury,233,0.20671142637729645
+"['euro', '##pe']","['##ils', '##k']",treasury european worry push key yield below pct,norilsk nickel may retire treasury share potanin,325,0.30511271953582764
+"['euro', '##pe']","['g', '##erman']",treasury european worry push key yield below pct,corrected treasury yield rise after german court ruling before supply,429,0.30355212092399597
+"['euro', '##pe']","['g', '##erman']",treasury european worry push key yield below pct,treasury price fall german court ruling year sale,429,0.30355212092399597
+"['euro', '##pe']","['##ac', '##ific', 'k', '##rum']",treasury european worry push key yield below pct,pacific life tom gibbon and joseph krum assume additional corporate treasury responsibility,429,0.29984280467033386
+"['euro', '##pe']","['alliance', '##ber', '##nstein']",treasury european worry push key yield below pct,alliancebernstein liquidates public private investment partnership internal rate return for treasury,456,0.2701916992664337
+"['euro', '##pe']","['am', '##eric', '##an']",treasury european worry push key yield below pct,treasury bond tread water american vote tight race,484,0.2402624934911728
+"['euro', '##pe']","['be', '##rna', '##nk']",treasury european worry push key yield below pct,treasury yield near month low bernanke defends bond buy,596,0.17642730474472046
+"['euro', '##pe']","['g', '##if']",treasury european worry push key yield below pct,jim gifas head rb citizen treasury solution named elite bank system technology,827,0.24398377537727356
+"['euro', '##pe']","['nor', '##tel']",treasury european worry push key yield below pct,nortel put sale proceeds treasury while creditor fight,961,0.2501462996006012
+"['euro', '##pe']","['black', 'th']",treasury european worry push key yield below pct,blackrock thiel say periphery bond holding lowest year,1051,0.1370278000831604
+"['euro', '##pe']","['g', '##erman']",treasury european worry push key yield below pct,treasury yield rise with german debt set bearish bond bet,1058,0.30355212092399597
+"['euro', '##pe']","['g', '##erman', '##eas']",treasury european worry push key yield below pct,german yield rise ukraine mideast tension ease but backdrop fragile,1127,0.37452858686447144
+"['euro', '##pe']","['##zi', '##lian']",treasury european worry push key yield below pct,treasury bond price edge weak data brazilian election,1205,0.25657010078430176
+"['a', '##f', '##rica']","['g', '##erman']",africa bond extend gain yield sharply down,treasury bond extend fall after german parliament news,77,0.2855972647666931
+"['a', '##f', '##rica']","['euro', '##pe']",africa bond extend gain yield sharply down,treasury bond fall hope european debt solution,77,0.2983773350715637
+"['a', '##f', '##rica']","['at', '##lant', '##a']",africa bond extend gain yield sharply down,atlanta tower set for foreclosure auction,155,0.33215010166168213
+"['a', '##f', '##rica']","['m', '##c', '##don', '##ald']",africa bond extend gain yield sharply down,mcdonald reclaims year bond yield record,176,0.22014310956001282
+"['a', '##f', '##rica']","['be', '##rna', '##nk', '##e']",africa bond extend gain yield sharply down,bernanke comment damp treasury,203,0.14645984768867493
+"['a', '##f', '##rica']","['##ils', '##k']",africa bond extend gain yield sharply down,norilsk nickel may retire treasury share potanin,295,0.2628750205039978
+"['a', '##f', '##rica']","['g', '##erman']",africa bond extend gain yield sharply down,corrected treasury yield rise after german court ruling before supply,399,0.2855972647666931
+"['a', '##f', '##rica']","['g', '##erman']",africa bond extend gain yield sharply down,treasury price fall german court ruling year sale,399,0.2855972647666931
+"['a', '##f', '##rica']","['##ac', '##ific', 'k', '##rum']",africa bond extend gain yield sharply down,pacific life tom gibbon and joseph krum assume additional corporate treasury responsibility,399,0.3047581613063812
+"['a', '##f', '##rica']","['alliance', '##ber', '##nstein']",africa bond extend gain yield sharply down,alliancebernstein liquidates public private investment partnership internal rate return for treasury,426,0.2315903753042221
+"['a', '##f', '##rica']","['am', '##eric', '##an']",africa bond extend gain yield sharply down,treasury bond tread water american vote tight race,454,0.24952074885368347
+"['a', '##f', '##rica']","['be', '##rna', '##nk']",africa bond extend gain yield sharply down,treasury yield near month low bernanke defends bond buy,566,0.1803756058216095
+"['a', '##f', '##rica']","['g', '##if']",africa bond extend gain yield sharply down,jim gifas head rb citizen treasury solution named elite bank system technology,797,0.2570425868034363
+"['a', '##f', '##rica']","['nor', '##tel']",africa bond extend gain yield sharply down,nortel put sale proceeds treasury while creditor fight,931,0.18707071244716644
+"['a', '##f', '##rica']","['black', 'th']",africa bond extend gain yield sharply down,blackrock thiel say periphery bond holding lowest year,1021,0.13196107745170593
+"['a', '##f', '##rica']","['g', '##erman']",africa bond extend gain yield sharply down,treasury yield rise with german debt set bearish bond bet,1028,0.2855972647666931
+"['a', '##f', '##rica']","['g', '##erman', '##eas']",africa bond extend gain yield sharply down,german yield rise ukraine mideast tension ease but backdrop fragile,1097,0.2600260376930237
+"['a', '##f', '##rica']","['##zi', '##lian']",africa bond extend gain yield sharply down,treasury bond price edge weak data brazilian election,1175,0.22460927069187164
+"['g', '##erman']","['euro', '##pe']",treasury bond extend fall after german parliament news,treasury bond fall hope european debt solution,0,0.30355212092399597
+"['g', '##erman']","['at', '##lant', '##a']",treasury bond extend fall after german parliament news,atlanta tower set for foreclosure auction,78,0.25852537155151367
+"['g', '##erman']","['m', '##c', '##don', '##ald']",treasury bond extend fall after german parliament news,mcdonald reclaims year bond yield record,99,0.29208478331565857
+"['g', '##erman']","['be', '##rna', '##nk', '##e']",treasury bond extend fall after german parliament news,bernanke comment damp treasury,126,0.2261454164981842
+"['g', '##erman']","['##ils', '##k']",treasury bond extend fall after german parliament news,norilsk nickel may retire treasury share potanin,218,0.30250751972198486
+"['g', '##erman']","['g', '##erman']",treasury bond extend fall after german parliament news,corrected treasury yield rise after german court ruling before supply,322,1.0000001192092896
+"['g', '##erman']","['g', '##erman']",treasury bond extend fall after german parliament news,treasury price fall german court ruling year sale,322,1.0000001192092896
+"['g', '##erman']","['##ac', '##ific', 'k', '##rum']",treasury bond extend fall after german parliament news,pacific life tom gibbon and joseph krum assume additional corporate treasury responsibility,322,0.21171487867832184
+"['g', '##erman']","['alliance', '##ber', '##nstein']",treasury bond extend fall after german parliament news,alliancebernstein liquidates public private investment partnership internal rate return for treasury,349,0.295131117105484
+"['g', '##erman']","['am', '##eric', '##an']",treasury bond extend fall after german parliament news,treasury bond tread water american vote tight race,377,0.36309587955474854
+"['g', '##erman']","['be', '##rna', '##nk']",treasury bond extend fall after german parliament news,treasury yield near month low bernanke defends bond buy,489,0.21308276057243347
+"['g', '##erman']","['g', '##if']",treasury bond extend fall after german parliament news,jim gifas head rb citizen treasury solution named elite bank system technology,720,0.44584059715270996
+"['g', '##erman']","['nor', '##tel']",treasury bond extend fall after german parliament news,nortel put sale proceeds treasury while creditor fight,854,0.2864845395088196
+"['g', '##erman']","['black', 'th']",treasury bond extend fall after german parliament news,blackrock thiel say periphery bond holding lowest year,944,0.1743430197238922
+"['g', '##erman']","['g', '##erman']",treasury bond extend fall after german parliament news,treasury yield rise with german debt set bearish bond bet,951,1.0000001192092896
+"['g', '##erman']","['g', '##erman', '##eas']",treasury bond extend fall after german parliament news,german yield rise ukraine mideast tension ease but backdrop fragile,1020,0.8629695773124695
+"['g', '##erman']","['##zi', '##lian']",treasury bond extend fall after german parliament news,treasury bond price edge weak data brazilian election,1098,0.2899937629699707
+"['euro', '##pe']","['at', '##lant', '##a']",treasury bond fall hope european debt solution,atlanta tower set for foreclosure auction,78,0.2579558789730072
+"['euro', '##pe']","['m', '##c', '##don', '##ald']",treasury bond fall hope european debt solution,mcdonald reclaims year bond yield record,99,0.21872830390930176
+"['euro', '##pe']","['be', '##rna', '##nk', '##e']",treasury bond fall hope european debt solution,bernanke comment damp treasury,126,0.20671142637729645
+"['euro', '##pe']","['##ils', '##k']",treasury bond fall hope european debt solution,norilsk nickel may retire treasury share potanin,218,0.30511271953582764
+"['euro', '##pe']","['g', '##erman']",treasury bond fall hope european debt solution,corrected treasury yield rise after german court ruling before supply,322,0.30355212092399597
+"['euro', '##pe']","['g', '##erman']",treasury bond fall hope european debt solution,treasury price fall german court ruling year sale,322,0.30355212092399597
+"['euro', '##pe']","['##ac', '##ific', 'k', '##rum']",treasury bond fall hope european debt solution,pacific life tom gibbon and joseph krum assume additional corporate treasury responsibility,322,0.29984280467033386
+"['euro', '##pe']","['alliance', '##ber', '##nstein']",treasury bond fall hope european debt solution,alliancebernstein liquidates public private investment partnership internal rate return for treasury,349,0.2701916992664337
+"['euro', '##pe']","['am', '##eric', '##an']",treasury bond fall hope european debt solution,treasury bond tread water american vote tight race,377,0.2402624934911728
+"['euro', '##pe']","['be', '##rna', '##nk']",treasury bond fall hope european debt solution,treasury yield near month low bernanke defends bond buy,489,0.17642730474472046
+"['euro', '##pe']","['g', '##if']",treasury bond fall hope european debt solution,jim gifas head rb citizen treasury solution named elite bank system technology,720,0.24398377537727356
+"['euro', '##pe']","['nor', '##tel']",treasury bond fall hope european debt solution,nortel put sale proceeds treasury while creditor fight,854,0.2501462996006012
+"['euro', '##pe']","['black', 'th']",treasury bond fall hope european debt solution,blackrock thiel say periphery bond holding lowest year,944,0.1370278000831604
+"['euro', '##pe']","['g', '##erman']",treasury bond fall hope european debt solution,treasury yield rise with german debt set bearish bond bet,951,0.30355212092399597
+"['euro', '##pe']","['g', '##erman', '##eas']",treasury bond fall hope european debt solution,german yield rise ukraine mideast tension ease but backdrop fragile,1020,0.37452858686447144
+"['euro', '##pe']","['##zi', '##lian']",treasury bond fall hope european debt solution,treasury bond price edge weak data brazilian election,1098,0.25657010078430176
+"['at', '##lant', '##a']","['m', '##c', '##don', '##ald']",atlanta tower set for foreclosure auction,mcdonald reclaims year bond yield record,21,0.40823894739151
+"['at', '##lant', '##a']","['be', '##rna', '##nk', '##e']",atlanta tower set for foreclosure auction,bernanke comment damp treasury,48,0.2103392481803894
+"['at', '##lant', '##a']","['##ils', '##k']",atlanta tower set for foreclosure auction,norilsk nickel may retire treasury share potanin,140,0.34935566782951355
+"['at', '##lant', '##a']","['g', '##erman']",atlanta tower set for foreclosure auction,corrected treasury yield rise after german court ruling before supply,244,0.25852537155151367
+"['at', '##lant', '##a']","['g', '##erman']",atlanta tower set for foreclosure auction,treasury price fall german court ruling year sale,244,0.25852537155151367
+"['at', '##lant', '##a']","['##ac', '##ific', 'k', '##rum']",atlanta tower set for foreclosure auction,pacific life tom gibbon and joseph krum assume additional corporate treasury responsibility,244,0.34837356209754944
+"['at', '##lant', '##a']","['alliance', '##ber', '##nstein']",atlanta tower set for foreclosure auction,alliancebernstein liquidates public private investment partnership internal rate return for treasury,271,0.4183427393436432
+"['at', '##lant', '##a']","['am', '##eric', '##an']",atlanta tower set for foreclosure auction,treasury bond tread water american vote tight race,299,0.3895130753517151
+"['at', '##lant', '##a']","['be', '##rna', '##nk']",atlanta tower set for foreclosure auction,treasury yield near month low bernanke defends bond buy,411,0.23478859663009644
+"['at', '##lant', '##a']","['g', '##if']",atlanta tower set for foreclosure auction,jim gifas head rb citizen treasury solution named elite bank system technology,642,0.2184762805700302
+"['at', '##lant', '##a']","['nor', '##tel']",atlanta tower set for foreclosure auction,nortel put sale proceeds treasury while creditor fight,776,0.36280083656311035
+"['at', '##lant', '##a']","['black', 'th']",atlanta tower set for foreclosure auction,blackrock thiel say periphery bond holding lowest year,866,0.26106852293014526
+"['at', '##lant', '##a']","['g', '##erman']",atlanta tower set for foreclosure auction,treasury yield rise with german debt set bearish bond bet,873,0.25852537155151367
+"['at', '##lant', '##a']","['g', '##erman', '##eas']",atlanta tower set for foreclosure auction,german yield rise ukraine mideast tension ease but backdrop fragile,942,0.3072581887245178
+"['at', '##lant', '##a']","['##zi', '##lian']",atlanta tower set for foreclosure auction,treasury bond price edge weak data brazilian election,1020,0.3662071228027344
+"['m', '##c', '##don', '##ald']","['be', '##rna', '##nk', '##e']",mcdonald reclaims year bond yield record,bernanke comment damp treasury,27,0.27566754817962646
+"['m', '##c', '##don', '##ald']","['##ils', '##k']",mcdonald reclaims year bond yield record,norilsk nickel may retire treasury share potanin,119,0.3672581911087036
+"['m', '##c', '##don', '##ald']","['g', '##erman']",mcdonald reclaims year bond yield record,corrected treasury yield rise after german court ruling before supply,223,0.29208478331565857
+"['m', '##c', '##don', '##ald']","['g', '##erman']",mcdonald reclaims year bond yield record,treasury price fall german court ruling year sale,223,0.29208478331565857
+"['m', '##c', '##don', '##ald']","['##ac', '##ific', 'k', '##rum']",mcdonald reclaims year bond yield record,pacific life tom gibbon and joseph krum assume additional corporate treasury responsibility,223,0.43051767349243164
+"['m', '##c', '##don', '##ald']","['alliance', '##ber', '##nstein']",mcdonald reclaims year bond yield record,alliancebernstein liquidates public private investment partnership internal rate return for treasury,250,0.366599440574646
+"['m', '##c', '##don', '##ald']","['am', '##eric', '##an']",mcdonald reclaims year bond yield record,treasury bond tread water american vote tight race,278,0.38093164563179016
+"['m', '##c', '##don', '##ald']","['be', '##rna', '##nk']",mcdonald reclaims year bond yield record,treasury yield near month low bernanke defends bond buy,390,0.29993072152137756
+"['m', '##c', '##don', '##ald']","['g', '##if']",mcdonald reclaims year bond yield record,jim gifas head rb citizen treasury solution named elite bank system technology,621,0.3292972445487976
+"['m', '##c', '##don', '##ald']","['nor', '##tel']",mcdonald reclaims year bond yield record,nortel put sale proceeds treasury while creditor fight,755,0.36054545640945435
+"['m', '##c', '##don', '##ald']","['black', 'th']",mcdonald reclaims year bond yield record,blackrock thiel say periphery bond holding lowest year,845,0.1908879578113556
+"['m', '##c', '##don', '##ald']","['g', '##erman']",mcdonald reclaims year bond yield record,treasury yield rise with german debt set bearish bond bet,852,0.29208478331565857
+"['m', '##c', '##don', '##ald']","['g', '##erman', '##eas']",mcdonald reclaims year bond yield record,german yield rise ukraine mideast tension ease but backdrop fragile,921,0.342870831489563
+"['m', '##c', '##don', '##ald']","['##zi', '##lian']",mcdonald reclaims year bond yield record,treasury bond price edge weak data brazilian election,999,0.3630561828613281
+"['be', '##rna', '##nk', '##e']","['##ils', '##k']",bernanke comment damp treasury,norilsk nickel may retire treasury share potanin,92,0.21930615603923798
+"['be', '##rna', '##nk', '##e']","['g', '##erman']",bernanke comment damp treasury,corrected treasury yield rise after german court ruling before supply,196,0.2261454164981842
+"['be', '##rna', '##nk', '##e']","['g', '##erman']",bernanke comment damp treasury,treasury price fall german court ruling year sale,196,0.2261454164981842
+"['be', '##rna', '##nk', '##e']","['##ac', '##ific', 'k', '##rum']",bernanke comment damp treasury,pacific life tom gibbon and joseph krum assume additional corporate treasury responsibility,196,0.26401200890541077
+"['be', '##rna', '##nk', '##e']","['alliance', '##ber', '##nstein']",bernanke comment damp treasury,alliancebernstein liquidates public private investment partnership internal rate return for treasury,223,0.37088507413864136
+"['be', '##rna', '##nk', '##e']","['am', '##eric', '##an']",bernanke comment damp treasury,treasury bond tread water american vote tight race,251,0.2517213225364685
+"['be', '##rna', '##nk', '##e']","['be', '##rna', '##nk']",bernanke comment damp treasury,treasury yield near month low bernanke defends bond buy,363,0.9485745429992676
+"['be', '##rna', '##nk', '##e']","['g', '##if']",bernanke comment damp treasury,jim gifas head rb citizen treasury solution named elite bank system technology,594,0.17834925651550293
+"['be', '##rna', '##nk', '##e']","['nor', '##tel']",bernanke comment damp treasury,nortel put sale proceeds treasury while creditor fight,728,0.246061310172081
+"['be', '##rna', '##nk', '##e']","['black', 'th']",bernanke comment damp treasury,blackrock thiel say periphery bond holding lowest year,818,0.11986768245697021
+"['be', '##rna', '##nk', '##e']","['g', '##erman']",bernanke comment damp treasury,treasury yield rise with german debt set bearish bond bet,825,0.2261454164981842
+"['be', '##rna', '##nk', '##e']","['g', '##erman', '##eas']",bernanke comment damp treasury,german yield rise ukraine mideast tension ease but backdrop fragile,894,0.2699154317378998
+"['be', '##rna', '##nk', '##e']","['##zi', '##lian']",bernanke comment damp treasury,treasury bond price edge weak data brazilian election,972,0.23007676005363464
+"['##ils', '##k']","['g', '##erman']",norilsk nickel may retire treasury share potanin,corrected treasury yield rise after german court ruling before supply,104,0.30250751972198486
+"['##ils', '##k']","['g', '##erman']",norilsk nickel may retire treasury share potanin,treasury price fall german court ruling year sale,104,0.30250751972198486
+"['##ils', '##k']","['##ac', '##ific', 'k', '##rum']",norilsk nickel may retire treasury share potanin,pacific life tom gibbon and joseph krum assume additional corporate treasury responsibility,104,0.5222457647323608
+"['##ils', '##k']","['alliance', '##ber', '##nstein']",norilsk nickel may retire treasury share potanin,alliancebernstein liquidates public private investment partnership internal rate return for treasury,131,0.3705005347728729
+"['##ils', '##k']","['am', '##eric', '##an']",norilsk nickel may retire treasury share potanin,treasury bond tread water american vote tight race,159,0.2779366672039032
+"['##ils', '##k']","['be', '##rna', '##nk']",norilsk nickel may retire treasury share potanin,treasury yield near month low bernanke defends bond buy,271,0.26841673254966736
+"['##ils', '##k']","['g', '##if']",norilsk nickel may retire treasury share potanin,jim gifas head rb citizen treasury solution named elite bank system technology,502,0.34491831064224243
+"['##ils', '##k']","['nor', '##tel']",norilsk nickel may retire treasury share potanin,nortel put sale proceeds treasury while creditor fight,636,0.3005874752998352
+"['##ils', '##k']","['black', 'th']",norilsk nickel may retire treasury share potanin,blackrock thiel say periphery bond holding lowest year,726,0.18513739109039307
+"['##ils', '##k']","['g', '##erman']",norilsk nickel may retire treasury share potanin,treasury yield rise with german debt set bearish bond bet,733,0.30250751972198486
+"['##ils', '##k']","['g', '##erman', '##eas']",norilsk nickel may retire treasury share potanin,german yield rise ukraine mideast tension ease but backdrop fragile,802,0.41097497940063477
+"['##ils', '##k']","['##zi', '##lian']",norilsk nickel may retire treasury share potanin,treasury bond price edge weak data brazilian election,880,0.44226768612861633
+"['g', '##erman']","['g', '##erman']",corrected treasury yield rise after german court ruling before supply,treasury price fall german court ruling year sale,0,1.0000001192092896
+"['g', '##erman']","['##ac', '##ific', 'k', '##rum']",corrected treasury yield rise after german court ruling before supply,pacific life tom gibbon and joseph krum assume additional corporate treasury responsibility,0,0.21171487867832184
+"['g', '##erman']","['alliance', '##ber', '##nstein']",corrected treasury yield rise after german court ruling before supply,alliancebernstein liquidates public private investment partnership internal rate return for treasury,27,0.295131117105484
+"['g', '##erman']","['am', '##eric', '##an']",corrected treasury yield rise after german court ruling before supply,treasury bond tread water american vote tight race,55,0.36309587955474854
+"['g', '##erman']","['be', '##rna', '##nk']",corrected treasury yield rise after german court ruling before supply,treasury yield near month low bernanke defends bond buy,167,0.21308276057243347
+"['g', '##erman']","['g', '##if']",corrected treasury yield rise after german court ruling before supply,jim gifas head rb citizen treasury solution named elite bank system technology,398,0.44584059715270996
+"['g', '##erman']","['nor', '##tel']",corrected treasury yield rise after german court ruling before supply,nortel put sale proceeds treasury while creditor fight,532,0.2864845395088196
+"['g', '##erman']","['black', 'th']",corrected treasury yield rise after german court ruling before supply,blackrock thiel say periphery bond holding lowest year,622,0.1743430197238922
+"['g', '##erman']","['g', '##erman']",corrected treasury yield rise after german court ruling before supply,treasury yield rise with german debt set bearish bond bet,629,1.0000001192092896
+"['g', '##erman']","['g', '##erman', '##eas']",corrected treasury yield rise after german court ruling before supply,german yield rise ukraine mideast tension ease but backdrop fragile,698,0.8629695773124695
+"['g', '##erman']","['##zi', '##lian']",corrected treasury yield rise after german court ruling before supply,treasury bond price edge weak data brazilian election,776,0.2899937629699707
+"['g', '##erman']","['##ac', '##ific', 'k', '##rum']",treasury price fall german court ruling year sale,pacific life tom gibbon and joseph krum assume additional corporate treasury responsibility,0,0.21171487867832184
+"['g', '##erman']","['alliance', '##ber', '##nstein']",treasury price fall german court ruling year sale,alliancebernstein liquidates public private investment partnership internal rate return for treasury,27,0.295131117105484
+"['g', '##erman']","['am', '##eric', '##an']",treasury price fall german court ruling year sale,treasury bond tread water american vote tight race,55,0.36309587955474854
+"['g', '##erman']","['be', '##rna', '##nk']",treasury price fall german court ruling year sale,treasury yield near month low bernanke defends bond buy,167,0.21308276057243347
+"['g', '##erman']","['g', '##if']",treasury price fall german court ruling year sale,jim gifas head rb citizen treasury solution named elite bank system technology,398,0.44584059715270996
+"['g', '##erman']","['nor', '##tel']",treasury price fall german court ruling year sale,nortel put sale proceeds treasury while creditor fight,532,0.2864845395088196
+"['g', '##erman']","['black', 'th']",treasury price fall german court ruling year sale,blackrock thiel say periphery bond holding lowest year,622,0.1743430197238922
+"['g', '##erman']","['g', '##erman']",treasury price fall german court ruling year sale,treasury yield rise with german debt set bearish bond bet,629,1.0000001192092896
+"['g', '##erman']","['g', '##erman', '##eas']",treasury price fall german court ruling year sale,german yield rise ukraine mideast tension ease but backdrop fragile,698,0.8629695773124695
+"['g', '##erman']","['##zi', '##lian']",treasury price fall german court ruling year sale,treasury bond price edge weak data brazilian election,776,0.2899937629699707
+"['##ac', '##ific', 'k', '##rum']","['alliance', '##ber', '##nstein']",pacific life tom gibbon and joseph krum assume additional corporate treasury responsibility,alliancebernstein liquidates public private investment partnership internal rate return for treasury,27,0.41835150122642517
+"['##ac', '##ific', 'k', '##rum']","['am', '##eric', '##an']",pacific life tom gibbon and joseph krum assume additional corporate treasury responsibility,treasury bond tread water american vote tight race,55,0.30483755469322205
+"['##ac', '##ific', 'k', '##rum']","['be', '##rna', '##nk']",pacific life tom gibbon and joseph krum assume additional corporate treasury responsibility,treasury yield near month low bernanke defends bond buy,167,0.2812323570251465
+"['##ac', '##ific', 'k', '##rum']","['g', '##if']",pacific life tom gibbon and joseph krum assume additional corporate treasury responsibility,jim gifas head rb citizen treasury solution named elite bank system technology,398,0.34851735830307007
+"['##ac', '##ific', 'k', '##rum']","['nor', '##tel']",pacific life tom gibbon and joseph krum assume additional corporate treasury responsibility,nortel put sale proceeds treasury while creditor fight,532,0.32524973154067993
+"['##ac', '##ific', 'k', '##rum']","['black', 'th']",pacific life tom gibbon and joseph krum assume additional corporate treasury responsibility,blackrock thiel say periphery bond holding lowest year,622,0.267800509929657
+"['##ac', '##ific', 'k', '##rum']","['g', '##erman']",pacific life tom gibbon and joseph krum assume additional corporate treasury responsibility,treasury yield rise with german debt set bearish bond bet,629,0.21171487867832184
+"['##ac', '##ific', 'k', '##rum']","['g', '##erman', '##eas']",pacific life tom gibbon and joseph krum assume additional corporate treasury responsibility,german yield rise ukraine mideast tension ease but backdrop fragile,698,0.29902637004852295
+"['##ac', '##ific', 'k', '##rum']","['##zi', '##lian']",pacific life tom gibbon and joseph krum assume additional corporate treasury responsibility,treasury bond price edge weak data brazilian election,776,0.37426137924194336
+"['alliance', '##ber', '##nstein']","['am', '##eric', '##an']",alliancebernstein liquidates public private investment partnership internal rate return for treasury,treasury bond tread water american vote tight race,28,0.32976019382476807
+"['alliance', '##ber', '##nstein']","['be', '##rna', '##nk']",alliancebernstein liquidates public private investment partnership internal rate return for treasury,treasury yield near month low bernanke defends bond buy,140,0.41097211837768555
+"['alliance', '##ber', '##nstein']","['g', '##if']",alliancebernstein liquidates public private investment partnership internal rate return for treasury,jim gifas head rb citizen treasury solution named elite bank system technology,371,0.2497292160987854
+"['alliance', '##ber', '##nstein']","['nor', '##tel']",alliancebernstein liquidates public private investment partnership internal rate return for treasury,nortel put sale proceeds treasury while creditor fight,505,0.3568706512451172
+"['alliance', '##ber', '##nstein']","['black', 'th']",alliancebernstein liquidates public private investment partnership internal rate return for treasury,blackrock thiel say periphery bond holding lowest year,595,0.15865007042884827
+"['alliance', '##ber', '##nstein']","['g', '##erman']",alliancebernstein liquidates public private investment partnership internal rate return for treasury,treasury yield rise with german debt set bearish bond bet,602,0.295131117105484
+"['alliance', '##ber', '##nstein']","['g', '##erman', '##eas']",alliancebernstein liquidates public private investment partnership internal rate return for treasury,german yield rise ukraine mideast tension ease but backdrop fragile,671,0.41710716485977173
+"['alliance', '##ber', '##nstein']","['##zi', '##lian']",alliancebernstein liquidates public private investment partnership internal rate return for treasury,treasury bond price edge weak data brazilian election,749,0.3115326166152954
+"['am', '##eric', '##an']","['be', '##rna', '##nk']",treasury bond tread water american vote tight race,treasury yield near month low bernanke defends bond buy,112,0.2181771993637085
+"['am', '##eric', '##an']","['g', '##if']",treasury bond tread water american vote tight race,jim gifas head rb citizen treasury solution named elite bank system technology,343,0.27624285221099854
+"['am', '##eric', '##an']","['nor', '##tel']",treasury bond tread water american vote tight race,nortel put sale proceeds treasury while creditor fight,477,0.3296635150909424
+"['am', '##eric', '##an']","['black', 'th']",treasury bond tread water american vote tight race,blackrock thiel say periphery bond holding lowest year,567,0.24463683366775513
+"['am', '##eric', '##an']","['g', '##erman']",treasury bond tread water american vote tight race,treasury yield rise with german debt set bearish bond bet,574,0.36309587955474854
+"['am', '##eric', '##an']","['g', '##erman', '##eas']",treasury bond tread water american vote tight race,german yield rise ukraine mideast tension ease but backdrop fragile,643,0.441562682390213
+"['am', '##eric', '##an']","['##zi', '##lian']",treasury bond tread water american vote tight race,treasury bond price edge weak data brazilian election,721,0.30398839712142944
+"['be', '##rna', '##nk']","['g', '##if']",treasury yield near month low bernanke defends bond buy,jim gifas head rb citizen treasury solution named elite bank system technology,231,0.22892498970031738
+"['be', '##rna', '##nk']","['nor', '##tel']",treasury yield near month low bernanke defends bond buy,nortel put sale proceeds treasury while creditor fight,365,0.2842177450656891
+"['be', '##rna', '##nk']","['black', 'th']",treasury yield near month low bernanke defends bond buy,blackrock thiel say periphery bond holding lowest year,455,0.10846514999866486
+"['be', '##rna', '##nk']","['g', '##erman']",treasury yield near month low bernanke defends bond buy,treasury yield rise with german debt set bearish bond bet,462,0.21308276057243347
+"['be', '##rna', '##nk']","['g', '##erman', '##eas']",treasury yield near month low bernanke defends bond buy,german yield rise ukraine mideast tension ease but backdrop fragile,531,0.241570383310318
+"['be', '##rna', '##nk']","['##zi', '##lian']",treasury yield near month low bernanke defends bond buy,treasury bond price edge weak data brazilian election,609,0.2644127309322357
+"['g', '##if']","['nor', '##tel']",jim gifas head rb citizen treasury solution named elite bank system technology,nortel put sale proceeds treasury while creditor fight,134,0.26902925968170166
+"['g', '##if']","['black', 'th']",jim gifas head rb citizen treasury solution named elite bank system technology,blackrock thiel say periphery bond holding lowest year,224,0.16719600558280945
+"['g', '##if']","['g', '##erman']",jim gifas head rb citizen treasury solution named elite bank system technology,treasury yield rise with german debt set bearish bond bet,231,0.44584059715270996
+"['g', '##if']","['g', '##erman', '##eas']",jim gifas head rb citizen treasury solution named elite bank system technology,german yield rise ukraine mideast tension ease but backdrop fragile,300,0.37302565574645996
+"['g', '##if']","['##zi', '##lian']",jim gifas head rb citizen treasury solution named elite bank system technology,treasury bond price edge weak data brazilian election,378,0.24409151077270508
+"['nor', '##tel']","['black', 'th']",nortel put sale proceeds treasury while creditor fight,blackrock thiel say periphery bond holding lowest year,90,0.24209976196289062
+"['nor', '##tel']","['g', '##erman']",nortel put sale proceeds treasury while creditor fight,treasury yield rise with german debt set bearish bond bet,97,0.2864845395088196
+"['nor', '##tel']","['g', '##erman', '##eas']",nortel put sale proceeds treasury while creditor fight,german yield rise ukraine mideast tension ease but backdrop fragile,166,0.26519444584846497
+"['nor', '##tel']","['##zi', '##lian']",nortel put sale proceeds treasury while creditor fight,treasury bond price edge weak data brazilian election,244,0.38648131489753723
+"['black', 'th']","['g', '##erman']",blackrock thiel say periphery bond holding lowest year,treasury yield rise with german debt set bearish bond bet,7,0.1743430197238922
+"['black', 'th']","['g', '##erman', '##eas']",blackrock thiel say periphery bond holding lowest year,german yield rise ukraine mideast tension ease but backdrop fragile,76,0.16925854980945587
+"['black', 'th']","['##zi', '##lian']",blackrock thiel say periphery bond holding lowest year,treasury bond price edge weak data brazilian election,154,0.14625975489616394
+"['g', '##erman']","['g', '##erman', '##eas']",treasury yield rise with german debt set bearish bond bet,german yield rise ukraine mideast tension ease but backdrop fragile,69,0.8629695773124695
+"['g', '##erman']","['##zi', '##lian']",treasury yield rise with german debt set bearish bond bet,treasury bond price edge weak data brazilian election,147,0.2899937629699707
+"['g', '##erman', '##eas']","['##zi', '##lian']",german yield rise ukraine mideast tension ease but backdrop fragile,treasury bond price edge weak data brazilian election,78,0.3186274766921997
